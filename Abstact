@@ -1,0 +1,11 @@
+Abstract
+
+Esta base de datos, recopilada en el Children's Hospital Boston, 
+consta de registros de EEG de sujetos pediátricos con convulsiones intratables. 
+Se controló a los sujetos hasta varios días después de la retirada de la medicación anticonvulsiva para caracterizar 
+sus convulsiones y evaluar su candidatura para la intervención quirúrgica.
+
+Descripción de datos
+
+Se recopilaron grabaciones, agrupadas en 23 casos, de 22 sujetos (5 hombres, de 3 a 22 años, y 17 mujeres, de 1.5 a 19 años). 
+(El caso chb21 se obtuvo 1,5 años después del caso chb01, del mismo sujeto femenino)
